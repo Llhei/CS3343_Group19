@@ -1,5 +1,6 @@
 package simulator;
 
+
 public class CustomerGroup {
   private int id;
   private int number;
