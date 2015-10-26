@@ -1,5 +1,6 @@
 package simulator;
 
+import java.util.Date;
 import java.util.PriorityQueue;
 
 class CustomerQueue {
